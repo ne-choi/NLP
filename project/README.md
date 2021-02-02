@@ -1,4 +1,4 @@
-# Textbook study for NLP
+# Making lecture material for NLP
 
 ### 1. Python Machine Learning Guide  
 
@@ -6,8 +6,8 @@
 
 ### 2. Natural Language Processing  
 
-02. Preparation for NLP development
 03. NLP Overview
 04. Text Classification
 05. Text Similarity
+06. Making a chatbot
 07. Pre-training Model
