@@ -11,3 +11,5 @@
 05. Text Similarity
 06. Making a chatbot
 07. Pre-training Model
+
+### 3. Text Mining
